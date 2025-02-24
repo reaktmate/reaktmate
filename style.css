@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    text-align: center;
+    color: #333;
+}
+.block {
+    text-align: center;
+    color: #333;
+}
+
+.block ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+
